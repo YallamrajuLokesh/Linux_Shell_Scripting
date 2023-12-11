@@ -12,6 +12,9 @@
 # b. Develop a shell script that accepts above created filename as argument and
 # display its creation time and permissions of the file, on the standard output.
 
+# echo - displaying lines of text or string which are passed as arguments on the command line
+# while [ $i -le 10 ] - while the variable i is lesser than equal to 10
+
 #!/bin/bash
 
 echo “ 10 levels of folders are created for the departments and 10 levels of files
