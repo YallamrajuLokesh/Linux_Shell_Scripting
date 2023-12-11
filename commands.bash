@@ -57,3 +57,16 @@
 # alias and unalias	Sets and removes an alias for a file or command
 # cal	Displays a calendar in Terminal
 # apt-get	Manages Debian-based distros package libraries
+
+
+# create a bash file
+# vi  __.bash
+
+# run the bash file
+# sh  __.bash
+
+# installing a package (ex. tree)
+# sudo apt install tree
+
+# use the installed package
+# tree (the name of the package alone itself)
