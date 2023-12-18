@@ -5,7 +5,7 @@
 #! /bin/bash
 if [ $# -eq 0 ]
 then
-echo &quot;display does not exit&quot;
+echo "display does not exit":
 else
 ls -l $1> t1
 x=`cut -d ' ' -f 1,6,7,8,9 t1`
