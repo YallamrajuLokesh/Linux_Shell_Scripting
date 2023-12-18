@@ -13,8 +13,6 @@ echo $x
 fi
 
 
-#Here's an explanation of each line in the provided bash script:
-
 # 1. #!/bin/bash:
 # This line specifies the interpreter to be used for this script. It indicates that this is a bash script and should be run by the bash shell.
 
@@ -51,5 +49,4 @@ fi
 
 #     The spacing around the comma in the -f 1,6,7,8,9 option of the cut command might be unintentional. It's generally recommended to avoid spaces around commas in arguments passed to commands.
 
-# I hope this explanation is helpful!
 
